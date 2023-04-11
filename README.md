@@ -2,7 +2,7 @@
 数当てゲーム
 //in this case,i will write a game by C language
 
-//you will see the code
+//please copy the code from line 8 to line 34 as it is all code.
 
 
     #include <stdio.h>
